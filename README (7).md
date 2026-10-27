@@ -1,4 +1,4 @@
-# YUVRAJ SINGH JHALA 25BCON1530 FIBONACCI
+# aditya roy 25BCON0960 FIBONACCI
 # Fibonacci Series in Python
 
 A beginner-friendly Python program that demonstrates the Fibonacci sequence.
